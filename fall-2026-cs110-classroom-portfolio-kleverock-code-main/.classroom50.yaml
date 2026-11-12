@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "fall-2026-cs110-classroom"
+assignment: "portfolio"
+secret: "soccs110"
+owner:
+  username: "kleverock-code"
+  id: 319580595
+  accepted_at: "2026-08-28T16:33:13Z"
+source:
+  owner: "Binghamton-SOC"
+  owner_id: 319518535
+  repo: "Portfolio"
+  branch: "main"

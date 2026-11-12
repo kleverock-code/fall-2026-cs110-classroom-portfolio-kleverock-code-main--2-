@@ -1,0 +1,16 @@
+1.Assumed that the titles of all books are visible and legible.
+2.Assumed the person knows the English alphabet and the concept of alphabetical order.
+3.Assumed enough space is available to temporarily remove all books from the shelf.
+4.Take off all the books off the bookshelf and place them on the floor next to the bookshelf
+5.Pick up one book from the floor and read the title from its side. 
+6.Determine the first letter of the title and place it on the bookshelf
+7.Pick up another book from the floor and read the title from its side
+8.Determine the first letter of the title 
+9.Determine whether or not the title comes before or after the previous title, then place the book on the shelf accordingly.
+10.If the book’s title comes after the title previously read, place it on the right of the bookshelf. If the book’s title comes before the title previously read, place it on the left of the bookshelf. 
+11.Pick up one book from the floor and read the title from its side
+12.Determine the first letter of the title
+13.Scan the shelf starting from the far left until you make it to the far right until they find the exact titles of books that come before and after the title being sorted at the moment. Then, place accordingly to the left or right of the book that comes before/after the title. 
+14.If there are duplicates of the same book, they may be placed next to each other
+15.If two books have the same title but different authors, their order should be considered by their authors. This can be done so by comparing the first letters of the author’s first names, and progressing to their last names if they have the same first names.
+16.Repeat steps 7-15 until you go through each title to ensure no book was placed incorrectly.
